@@ -1,6 +1,11 @@
 {
     "author": "Pawan Bangalala",
+    
     "dependencies": {
         "typescript": "^5.2.2"
-    }
+    },
+    "scripts": {
+        "build":"tsc"
+    },
+    "main": "src/index.js"
 }
